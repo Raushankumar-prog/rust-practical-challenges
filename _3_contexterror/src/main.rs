@@ -16,6 +16,7 @@ impl ContextError {
     }
 }
 
+
 impl fmt::Display for ContextError {
     fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
         write!(f, "{}: {}", self.context, self.source)
@@ -63,7 +64,7 @@ fn might_fail(ok: bool) -> Result<(), Box<dyn Error + Send + Sync>> {
     if ok {
         Ok(())
     } else {
-        Err("operation failed".into()) // Convert &str into Box<dyn Error>
+        Err("operation failed".into())
     }
 }
 

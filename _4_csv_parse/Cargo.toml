@@ -1,6 +1,7 @@
 [package]
-name = "_4_uy"
+name = "_4_csv_parse"
 version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+memmap2 = "0.9.9"

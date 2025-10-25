@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "ChunkedIterator"
+name = "_1_ChunkedIterator"
 version = "0.1.0"

@@ -1,5 +1,5 @@
 [package]
-name = "ChunkedIterator"
+name = "_1_ChunkedIterator"
 version = "0.1.0"
 edition = "2024"
 
