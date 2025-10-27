@@ -1,1 +1,0 @@
-C:\Users\ACER\desktop\github\prust\_6_ffi_addExample\target\debug\_6_ffi_addExample.exe: C:\Users\ACER\desktop\github\prust\_6_ffi_addExample\build.rs C:\Users\ACER\desktop\github\prust\_6_ffi_addExample\src\main.rs
